@@ -1,4 +1,4 @@
-package OOPS;
+package java;
 
 public class genericBubbleSort
 {
