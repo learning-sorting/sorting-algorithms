@@ -1,5 +1,4 @@
-package OOPS;
-// java copy
+package java;
 
 public class car implements Comparable<car>
 {
