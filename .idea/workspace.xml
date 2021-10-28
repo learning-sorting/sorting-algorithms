@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbd8b46a-dbd6-4d28-9afc-c907566e6250" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/heapSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/sleepSort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
