@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbd8b46a-dbd6-4d28-9afc-c907566e6250" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/heapSort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/quickSort.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/bubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/bubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +34,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/javascript" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

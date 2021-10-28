@@ -1,27 +1,29 @@
-package com.company;
-
-import java.util.Arrays;
-
-public class tut13_bubbleSort {
-    public static void main(String[] args) {
-int[]arr={3,6,6,2,4,1,3,5,3};
-bubbleSort(arr);
-        System.out.println(Arrays.toString(arr));
-    }
-
-    static void bubbleSort(int[] arr) {
-        //run the stps n-1 times
-        for (int i = 0; i < arr.length-1; i++) {
-            //for each step, max item will come at the last respective index
-            for (int j = 1; j < arr.length - i; j++) {
-                //swap if the item is smaller than the previous item
-                if (arr[j] < arr[j - 1]) {
-                    //swap
-                    int temp = arr[j];
-                    arr[j] = arr[j - 1];
-                    arr[j - 1] = temp;
+package com.bubblewrap;
+class Sort{
+    int[] arr1 = {9,14,3,2,43,11,58,22};
+    void forSort(){
+        int swap;
+        boolean stop=false;
+        while(!stop){
+            stop=true;
+            for(int a=0;arr1.length-2>=a;a++){
+                if (arr1[a] > arr1[a + 1]) {
+                    swap = arr1[a + 1];
+                    arr1[a + 1] = arr1[a];
+                    arr1[a] = swap;
+                    stop = false;
                 }
             }
         }
+    }
+}
+public class BubbleSort {
+    public static void main(String[] args) {
+        Sort S=new Sort();
+        System.out.print("Unsorted: ");
+        for (int arr: S.arr1) System.out.print(arr+" ");
+        System.out.print("\nSorted: ");
+        S.forSort();
+        for (int arr: S.arr1) System.out.print(arr+" ");
     }
 }
