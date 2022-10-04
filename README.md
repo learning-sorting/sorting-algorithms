@@ -1,7 +1,6 @@
-# Hacktoberfest2021
-![Hacktoberfest](https://user-images.githubusercontent.com/56665656/135706153-eca012d4-eeaa-4bef-b49c-d3dacd447174.jpg)
+# Hacktoberfest2022
 
-A Repo to Beginners push PRs for Hacktoberfest2021
+A Repo to Beginners push PRs for Hacktoberfest2022
 
 ## EVENT DETAILS:
 
